@@ -18,6 +18,3 @@
     "node": ">=14"
   }
 }
-"scripts": {
-  "heroku-postbuild": "npm install && npm run build"
-}
